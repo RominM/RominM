@@ -1,6 +1,6 @@
 <p align="left"><a href="https://github.com/RominM?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=RominM&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a><a href="https://github.com/RominM?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RominM&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
 
-[FR] 
+[:fr:]
 
 **Bonjour à tous**, je suis **Romin Manogil**
 
@@ -14,7 +14,7 @@
 
 ** **
 
-[EN]
+[:uk:]
 
 **Hi there**, I’m **Romin Manogil**
 
