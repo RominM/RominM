@@ -123,15 +123,15 @@
  
  ## Contact :
  <p>
- 	<a href="https://www.linkedin.com/in/romin-manogil-48aa3ab8/" target="_blank" rel="noreferrer"> 
+ 	<a href="https://www.linkedin.com/in/romin-manogil-48aa3ab8/" target="_blank" rel="noreferrer noopener"> 
   		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/> 
  	</a>
 	&nbsp;
- 	<a href="tel:+33603694664" target="_blank" rel="noreferrer"> 
+ 	<a href="tel:+33603694664" target="_blank" rel="noreferrer noopener"> 
   		<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="30" height="30"/> 
  	</a>
 	&nbsp;
- 	<a href="mailto:rominmanogil.off@gmail.com" target="_blank" rel="noreferrer"> 
+ 	<a href="mailto:rominmanogil.off@gmail.com" target="_blank" rel="noreferrer noopener"> 
   		<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30" height="30"/> 
 	</a>
 </p>
