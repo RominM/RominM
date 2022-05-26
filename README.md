@@ -100,7 +100,7 @@
  [Repo](https://github.com/RominM/RominManogil_07_13092021)
  
  Billed :
- [Website](https://rominm.github.io/Billed-app-FR/) ||
+ [Website](https://rominm.github.io/Billed-app-FR/) <em>coming soon</em> ||
  [Repo](https://github.com/RominM/RominManogil_09_22112021)
  
  Kasa :
@@ -108,7 +108,7 @@
  [Repo](https://github.com/RominM/rominmanogil_11_18012022)
  
  SporteSee :
- [Website](https://sportsee-mgl-p12.netlify.app/) ||
+ [Website](https://sportsee-mgl-p12.netlify.app/) <em>coming soon</em> ||
  [Repo](https://github.com/RominM/rominmanogil_12_03022022)
  
  Argent Bank :
