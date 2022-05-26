@@ -1,10 +1,10 @@
 <h1 align="middle">Romin Manogil</h1>
 <p align="middle">
    <a href="https://github.com/RominM?tab=repositories">
-	<img src="https://github-readme-stats.vercel.app/api?username=RominM&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=RominM&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="130"/>
    </a>
    <a href="https://github.com/RominM?tab=repositories">
-	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RominM&theme=vue&layout=compact" alt="top langs" height="156"/>
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RominM&theme=vue&layout=compact" alt="top langs" height="130"/>
    </a>
 </p>
 
@@ -48,13 +48,14 @@
 
 [:fr:]
 
-**Bonjour à tous**, je suis **Romin Manogil**
+<p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Romin Manogil</strong></p>
+<a href="#websites"><em>Voir les projets</em></a>
 
   * Actuellement en collaboration avec [OpenClassrooms sur le parcours Développeur d'application Front-End](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) , je perfectionne mes capacités dans le développement Front-End grace aux 14 projets mis en place tout au long de cette année de formation.
   
   * Les projets proposé par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamique grace au language de programmation **JavaScript** et au framework **React**.
   
- *N'hésitez pas à vister les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcouris les fichiers si le coeur vous en dit.*
+ *N'hésitez pas à vister les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers si le coeur vous en dit.*
  
  A très bientôt
 
@@ -62,7 +63,8 @@
 
 [:uk:]
 
-**Hi there**, I’m **Romin Manogil**
+<p><strong>Hi there & welcome to my GitHub</strong>, I’m <strong>Romin Manogil</strong></p>
+<a href="#websites"><em>View all projects</em></a>
 
   * Currently in collaboration with [OpenClassrooms running on Front-End application development](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) course, I am perfecting my capacities in Front-End development thanks to the 14 projects implemented throughout this year of training.
   
@@ -71,3 +73,66 @@
  *Do not hesitate to visit the various rests offered on this GitHub, to read the different readMe and to browse the files if you feel like it.*
  
  See you soon
+ 
+ ---
+ 
+ ## Websites
+ 
+ 
+ Reservia :
+ [Website](https://rominm.github.io/RominManogil_2_08022021/) ||
+ [Repo](https://github.com/RominM/RominManogil_2_08022021)
+
+ OhMyFood : 
+ [Website](https://rominm.github.io/RominManogil_03_18032021/) ||
+ [Repo](https://github.com/RominM/RominManogil_03_18032021)
+ 
+ GameOn :
+ [Website](https://rominm.github.io/RominManogil_04_18032021/) ||
+ [Repo](https://github.com/RominM/RominManogil_04_18032021)
+ 
+ Fisheye : 
+ [Website](https://rominm.github.io/RominManogil_06_07062021/) ||
+ [Repo](https://github.com/RominM/RominManogil_06_07062021)
+ 
+ Les Petits Plats : 
+ [Website](https://rominm.github.io/RominManogil_07_13092021/) ||
+ [Repo](https://github.com/RominM/RominManogil_07_13092021)
+ 
+ Billed :
+ [Website](https://rominm.github.io/Billed-app-FR/) ||
+ [Repo](https://github.com/RominM/RominManogil_09_22112021)
+ 
+ Kasa :
+ [Website](https://rominmanogil-p11-kasa.netlify.app/) ||
+ [Repo](https://github.com/RominM/rominmanogil_11_18012022)
+ 
+ SporteSee :
+ [Website](https://sportsee-mgl-p12.netlify.app/) ||
+ [Repo](https://github.com/RominM/rominmanogil_12_03022022)
+ 
+ Argent Bank :
+ [Website]() ||
+ [Repo]()
+ 
+ HR Net :
+ [Website]() ||
+ [Repo]()
+ 
+ ---
+ 
+ ## Contact :
+ <p>
+ 	<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/> 
+ 	</a>
+	&nbsp;
+ 	<a href=href="tel:+33603694664" target="_blank" rel="noreferrer"> 
+  		<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="30" height="30"/> 
+ 	</a>
+	&nbsp;
+ 	<a href="mailto:rominmanogil.off@gmail.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30" height="30"/> 
+	</a>
+</p>
+ 
