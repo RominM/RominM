@@ -123,11 +123,11 @@
  
  ## Contact :
  <p>
- 	<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+ 	<a href="https://www.linkedin.com/in/romin-manogil-48aa3ab8/" target="_blank" rel="noreferrer"> 
   		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/> 
  	</a>
 	&nbsp;
- 	<a href=href="tel:+33603694664" target="_blank" rel="noreferrer"> 
+ 	<a href="tel:+33603694664" target="_blank" rel="noreferrer"> 
   		<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="30" height="30"/> 
  	</a>
 	&nbsp;
