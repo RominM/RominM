@@ -112,12 +112,12 @@
  [Repo](https://github.com/RominM/rominmanogil_12_03022022)
  
  Argent Bank :
- [Website]() ||
- [Repo]()
+ [Website]() <em>coming soon</em> ||
+ [Repo](https://github.com/RominM/rominmanogil_13_14032022)
  
  HR Net :
- [Website]() ||
- [Repo]()
+ [Website]() <em>currently working on it</em> ||
+ [Repo](https://github.com/RominM/RominManogil_14_22032022)
  
  ---
  
