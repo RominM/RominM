@@ -80,23 +80,23 @@
  
  
  Reservia :
- [Website](https://rominm.github.io/RominManogil_2_08022021/) <em>online</em>||
+ [Website](https://rominm.github.io/RominManogil_2_08022021/) <em>online</em> ||
  [Repo](https://github.com/RominM/RominManogil_2_08022021)
 
  OhMyFood : 
- [Website](https://rominm.github.io/RominManogil_03_18032021/) <em>online</em>||
+ [Website](https://rominm.github.io/RominManogil_03_18032021/) <em>online</em> ||
  [Repo](https://github.com/RominM/RominManogil_03_18032021)
  
  GameOn :
- [Website](https://rominm.github.io/RominManogil_04_18032021/) <em>online</em>||
+ [Website](https://rominm.github.io/RominManogil_04_18032021/) <em>online</em> ||
  [Repo](https://github.com/RominM/RominManogil_04_18032021)
  
  Fisheye : 
- [Website](https://rominm.github.io/RominManogil_06_07062021/) <em>online</em>||
+ [Website](https://rominm.github.io/RominManogil_06_07062021/) <em>online</em> ||
  [Repo](https://github.com/RominM/RominManogil_06_07062021)
  
  Les Petits Plats : 
- [Website](https://rominm.github.io/RominManogil_07_13092021/) <em>online</em>||
+ [Website](https://rominm.github.io/RominManogil_07_13092021/) <em>online</em> ||
  [Repo](https://github.com/RominM/RominManogil_07_13092021)
  
  Billed :
@@ -104,11 +104,11 @@
  [Repo](https://github.com/RominM/RominManogil_09_22112021)
  
  Kasa :
- [Website](https://rominmanogil-p11-kasa.netlify.app/) <em>online</em>||
+ [Website](https://rominmanogil-p11-kasa.netlify.app/) <em>online</em> ||
  [Repo](https://github.com/RominM/rominmanogil_11_18012022)
  
  SporteSee :
- [Website](https://sportsee-rm.netlify.app/user/12) <em>online</em>||
+ [Website](https://sportsee-rm.netlify.app/user/12) <em>online</em> ||
  [Repo](https://github.com/RominM/rominmanogil_12_03022022)
  
  Argent Bank :
