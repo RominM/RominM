@@ -70,7 +70,7 @@
   
   * The projects offered by OpenClassrooms allowed me to confirm my skills in **HTML5** and **CSS3** and to learn how to create dynamic pages with the **JavaScript** programming language and the **React** framework.
   
- *Do not hesitate to visit the various rests offered on this GitHub, to read the different readMe and to browse the files if you feel like it.*
+ *Do not hesitate to visit the various repositories offered on this GitHub, to read the different readMe and to browse the files if you feel like it.*
  
  See you soon
  
