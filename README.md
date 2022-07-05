@@ -91,7 +91,7 @@
  [Repo](https://github.com/RominM/rominmanogil_13_14032022)
  
  SporteSee :
- [Website](https://sportsee-rm.netlify.app/user/12) <em>Coming soon</em> ||
+ [Website](https://sportsee-rm.netlify.app/user/12) <em>online</em> ||
  [Repo](https://github.com/RominM/rominmanogil_12_03022022)
  
   Kasa :
