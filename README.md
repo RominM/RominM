@@ -51,13 +51,15 @@
 <p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Romin Manogil</strong></p>
 <a href="#websites"><em>Voir les projets</em></a>
 
-  * Actuellement en collaboration avec [OpenClassrooms sur le parcours Développeur d'application Front-End](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) , je perfectionne mes capacités dans le développement Front-End grace aux 14 projets mis en place tout au long de cette année de formation.
+  * Autonome dans la veille informationnelle et dans le développement de projet Front-end React.
+
+  * Diplômé en tant que "Développeur d'application Front-end JavaScript React" à la suite de mon parcours avec [OpenClassrooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react), je perfectionne mes capacités dans le développement Front-End grâce aux 14 projets mis en place tout au long de cette année de formation.
   
-  * Les projets proposé par OpenClassrooms m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamique grace au language de programmation **JavaScript** et au framework **React**.
+  * Les projets réalisés m'ont permis de confirmer mes compétences en **HTML5** et **CSS3** et d'apprendre à créer des pages dynamiques grâce au langage de programmation **JavaScript** et au framework **React**.
   
- *N'hésitez pas à vister les divers repos proposé sur ce GitHub, de lire les differents readMe et de parcourir les differents fichiers si le coeur vous en dit.*
+ *N'hésitez pas à visiter mes différentes réalisations ainsi que leurs repos proposés sur ce GitHub, de lire les différents readMe et de parcourir les différents fichiers si le cœur vous en dit.*
  
- A très bientôt
+ À très bientôt
 
 ** **
 
@@ -65,12 +67,14 @@
 
 <p><strong>Hi there & welcome to my GitHub</strong>, I’m <strong>Romin Manogil</strong></p>
 <a href="#websites"><em>View all projects</em></a>
+  
+  * Autonomous in information monitoring and in the development of React front-end projects.
 
-  * Currently in collaboration with [OpenClassrooms running on Front-End application development](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) course, I am perfecting my capacities in Front-End development thanks to the 14 projects implemented throughout this year of training.
+  * Graduate as a "Font-end Developer JavaScript React" following the course with [OpenClassrooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react), I am perfecting my capacities in Front-End development thanks to the 14 projects implemented throughout this year of training.
   
-  * The projects offered by OpenClassrooms allowed me to confirm my skills in **HTML5** and **CSS3** and to learn how to create dynamic pages with the **JavaScript** programming language and the **React** framework.
+  * The projects carried out have allowed me to confirm my skills in **HTML5** and **CSS3** and to learn how to create dynamic pages with the **JavaScript** programming language and the **React** framework.
   
- *Do not hesitate to visit the various repositories offered on this GitHub, to read the different readMe and to browse the files if you feel like it.*
+ *Do not hesitate to visit the different achievements ans their repos offered on this GitHub, to read the different readMe and to browse the files if you feel like it.*
  
  See you soon
  
