@@ -50,6 +50,8 @@
 
 <p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Romin Manogil</strong></p>
 <a href="#websites"><em>Voir les projets</em></a>
+	
+  * Actuellement Développeur Front-end chez [ValueMyCar](https://valuemycar.fr/)
 
   * Autonome dans la veille informationnelle et dans le développement de projet Front-end React.
 
@@ -67,6 +69,8 @@
 
 <p><strong>Hi there & welcome to my GitHub</strong>, I’m <strong>Romin Manogil</strong></p>
 <a href="#websites"><em>View all projects</em></a>
+
+  * Currently front-end developer at [ValueMyCar](https://valuemycar.fr/) company
   
   * Autonomous in information monitoring and in the development of React front-end projects.
 
@@ -80,10 +84,15 @@
  
  ---
  
- ## Websites
+  ## Professional projects
+  ValueMyCar :
+ [Website](https://valuemycar.fr/)
+
+ 
+ ## Personal projects
  
   Space Tourisme :
- [Website](https://space-tourisme-rm.netlify.app/) <em>in progress</em> ||
+ [Website](https://space-tourisme-rm.netlify.app/) <em>online</em> ||
  [Repo](https://github.com/RominM/space-tourisme) 
  
   HR Net :
@@ -103,7 +112,7 @@
  [Repo](https://github.com/RominM/rominmanogil_11_18012022)
  
   Billed :
- [Website](https://rominm.github.io/Billed-app-FR/) <em>coming soon</em> ||
+ [](https://rominm.github.io/Billed-app-FR/) <em>coming soon</em> ||
  [Repo](https://github.com/RominM/RominManogil_09_22112021)
  
   Les Petits Plats : 
@@ -119,13 +128,13 @@
  [Repo](https://github.com/RominM/RominManogil_04_18032021)
  
  OhMyFood : 
- [Website](https://rominm.github.io/RominManogil_03_18032021/) <em>coming soon</em> ||
+ [](https://rominm.github.io/RominManogil_03_18032021/) <em>coming soon</em> ||
  [Repo](https://github.com/RominM/RominManogil_03_18032021)
  
  Reservia :
  [Website](https://rominm.github.io/Reservia/) <em>online</em> ||
  [Repo](https://github.com/RominM/RominManogil_2_08022021)
-
+ 
  ---
  
  ## Contact :
