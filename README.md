@@ -146,7 +146,7 @@
   		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/> 
  	</a>
 	&nbsp;
- 	<a href="https://www.instagram.com/romin_manogil/?hl=fr" target="_blank" rel="noreferrer noopener"> 
+ 	<a href="https://www.instagram.com/rin_mgl/?hl=fr" target="_blank" rel="noreferrer noopener"> 
   		<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="30" height="30"/> 
  	</a>
 	&nbsp;
