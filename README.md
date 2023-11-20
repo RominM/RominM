@@ -49,12 +49,12 @@
 
 ---
 
-[:fr:]
+[🇫🇷]
 
 <p><strong>Bonjour et bienvenue sur mon GitHub</strong>, je suis <strong>Romin Manogil</strong></p>
 <a href="#websites"><em>Voir les projets</em></a>
 	
-  * Actuellement Développeur Front-end chez [ValueMyCar](https://valuemycar.fr/) (GitLab) <em>[Mise à jour récente]</em>
+  * Actuellement Développeur Front-end chez [ValueMyCar](https://valuemycar.fr/) (GitLab) <em>[Depuis 26 Septembre 2022]</em>
 
   * Autonome dans la veille informationnelle et dans le développement de projet Front-end React.
 
@@ -68,12 +68,12 @@
 
 ** **
 
-[:uk:]
+[EN]
 
 <p><strong>Hi there & welcome to my GitHub</strong>, I’m <strong>Romin Manogil</strong></p>
 <a href="#websites"><em>View all projects</em></a>
 
-  * Currently front-end developer at [ValueMyCar](https://valuemycar.fr/) (GitLab) company <em>[Recently update]</em>
+  * Currently front-end developer at [ValueMyCar](https://valuemycar.fr/) (GitLab) company <em>[Since September 26, 2022]</em>
   
   * Autonomous in information monitoring and in the development of React front-end projects.
 
