@@ -12,66 +12,9 @@
 
 <h3 align="middle">Languages and Tools:</h3>
 <p align="center">
-	<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5"> 
-		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="37" height="37" /> 
-	</a>
-	&nbsp;
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="css3"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" /> 
-	</a>
-	&nbsp;
- 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="sass"> 
-   		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/> 
- 	</a>
-	&nbsp;
- 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="javascript"> 
-  		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- 	</a>
-	&nbsp;
- 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma"> 
-  		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
- 	</a>
-	&nbsp;
- 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="git"> 
-  		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- 	</a>
-	&nbsp;
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="npm"> 
-  		<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> 
- 	</a>
-	&nbsp;
-	<a href="https://jestjs.io" target="_blank" rel="noreferrer" title="jest"> 
-  		<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
- 	</a>
-	&nbsp;
- 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="react"> 
-  		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- 	</a>
-	&nbsp;
- 	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="redux"> 
-  		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
- 	</a>
-	&nbsp;
- 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="vueJs"> 
-  		<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> 
- 	</a>
-	&nbsp;
-	<a href="https://nuxt.com/" target="_blank" rel="noreferrer" title="nuxtJs"> 
-  		<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
- 	</a>
-	&nbsp;
-	<a href="https://sendgrid.com/en-us/" target="_blank" rel="noreferrer" title="sendgrid">
-		<img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="sendgrid" width="40" height="40" />
-	</a>
-	&nbsp;
-	<a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer" title="mongodb">
-		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo-db" width="40" height="40"
-	</a>
-	&nbsp;
-	<a href="https://www.atlassian.com/fr/software/jira" target="_blank" rel="noreferrer" title="jira">
-		<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"
-	</a>
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,figma,git,gitlab,npm,react,redux,vue,nuxtjs,mongo,notion" />
+  </a>
 </p>
 
 ---
